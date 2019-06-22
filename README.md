@@ -1,3 +1,1 @@
-# aidantrager.github.io
-
-This is a website created with Github Pages.
+**aidantrager.github.io** is a website created with Github Pages.
